@@ -32,9 +32,9 @@ microservices-config/
 │ └── cards-qa.yml
 │
 └── loans/
-│ ├── loans.yml
-│ ├── loans-prod.yml
-│ └── loans-qa.yml
+  ├── loans.yml
+  ├── loans-prod.yml
+  └── loans-qa.yml
 ```
 
 Each microservice directory contains YAML configuration files for the **default**, **prod**, and **qa** profiles.
