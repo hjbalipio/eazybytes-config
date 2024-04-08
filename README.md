@@ -44,7 +44,7 @@ Each microservice directory contains YAML configuration files for the **default*
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [<repository-url>](https://github.com/hjbalipio/eazybytes-config.git)
+   git clone https://github.com/hjbalipio/eazybytes-config.git
    ```
    
 1. Navigate to the desired microservice directory and profile:
