@@ -18,6 +18,7 @@ This repository contains YAML configuration files for the **loans**, **accounts*
 
 The repository is organized as follows:
 
+```
 microservices-config/
 │
 ├── loans/
@@ -34,6 +35,7 @@ microservices-config/
 ├── default.yml
 ├── prod.yml
 └── qa.yml
+```
 
 Each microservice directory contains YAML configuration files for the **default**, **prod**, and **qa** profiles.
 
