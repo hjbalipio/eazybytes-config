@@ -53,3 +53,7 @@ Each microservice directory contains YAML configuration files for the **default*
    cd microservices-config/loans
    ```
 1. Modify the configuration files according to your requirements. Use these configuration files with your Spring Boot application by specifying the appropriate profile during deployment.
+
+## Contributions
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
