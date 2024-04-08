@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related Prod APIs"
   contactDetails:
     name: "Hernan John B. Alipio - Product Owner"
-    email: "hernanjohn.alipio@enan.ph"
+    email: "{cipher}71a48cd3d12395c50635a8480bed5d1b022020813e1cc5de479411fad1341396c55fa2685eae5d5ae75c6a59d286adb1"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
