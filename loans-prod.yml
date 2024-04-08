@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank loans related webhooks APIs"
+  message: "Welcome to EazyBank loans related productions 2 APIs"
   contactDetails:
     name: "Hernan John B. Alipio - Product Owner"
     email: "hernanjohn.alipio@enan.ph"
