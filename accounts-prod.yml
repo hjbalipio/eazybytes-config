@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs"
+  message: "Welcome to EazyBank accounts related webhook APIs"
   contactDetails:
     name: "Hernan John B. Alipio - Product Owner"
     email: "{cipher}71a48cd3d12395c50635a8480bed5d1b022020813e1cc5de479411fad1341396c55fa2685eae5d5ae75c6a59d286adb1"
